@@ -63,7 +63,7 @@ public class mininum
 	    add(1,3,2);
 	    add(2,3,5);
 	    display();
-	    prims(0);
+	    // prims(0);
 	}
 }
 
